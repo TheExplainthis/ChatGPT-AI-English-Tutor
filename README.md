@@ -7,7 +7,7 @@
 本專案會利用 Whisper + GPT-3.5 + Google Text-To-Speech 打造一個 AI 英文家教老師，而老師也會去記錄學生的學習狀況，並定期的反思學生學習狀態，並給予較是適當的回饋與回覆給學生。
 
 ## Demo
-![Demo](https://github.com/TheExplainthis/ChatGPT-AI-English-Tutor/demo/demo.png)
+![Demo](https://github.com/TheExplainthis/ChatGPT-AI-English-Tutor/blob/main/demo/demo.png)
 
 ## 安裝步驟
 ### Token 取得

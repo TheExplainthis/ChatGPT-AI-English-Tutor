@@ -65,7 +65,7 @@
         "client_x509_cert_url": "https://www.gooXXXXXXX"
         }
         ```
-    3. 再新增另外三個環境變數，需新增：
+    3. 再新增另外四個環境變數，需新增：
         1. 欲選擇的模型：
             - key: `OPENAI_API_KEY`
             - value: `[由步驟一取得]`  

@@ -75,6 +75,9 @@
         3. Line Channel Access Token:
             - key: `LINE_CHANNEL_ACCESS_TOKEN`
             - value: `[由步驟一取得]`
+        4. Server URL
+            - key: `SERVER_URL`
+            - value: `[程式執行後，上方的網址，例如：https://ChatGPT-AI-English-Tutor.explainthis.repl.co/]`
     
 2. 開始執行
     1. 點擊上方的 `Run`
